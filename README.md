@@ -3,15 +3,16 @@
 
 ## San Francisco
 1. San Ho Won  
-2. Ren Omakase  
-3. Four Kings  
-4. R & G Lounge  
-5. Hunan House  
-6. Hunan Impression  
-7. Ping's Bistro  
-8. Miss Shang  
-9. Mikiya  
-10. Showa  
+2. Ren Omakase
+3. Sushi Kinsen
+4. Four Kings  
+5. R & G Lounge  
+6. Hunan House  
+7. Hunan Impression  
+8. Ping's Bistro  
+9. Miss Shang  
+10. Mikiya  
+11. Showa
 
 ## Las Vegas
 1. Kabuto  
